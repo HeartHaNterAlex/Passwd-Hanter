@@ -1,2 +1,2 @@
-# Passwd-hanter
-https://github.com/HeartHaNterAlex/Password-cracker.git
+# Passwd-Hanter
+https://github.com/HeartHaNterAlex/Passwd-Hanter.git
