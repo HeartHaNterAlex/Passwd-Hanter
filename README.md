@@ -1,3 +1,2 @@
-# Password-hunter
-
-https://hearthanteralex.github.io/Password-cracker/
+#Passwd-hanter
+https://github.com/HeartHaNterAlex/Password-cracker.git
