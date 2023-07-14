@@ -17,4 +17,30 @@ https://github.com/HeartHaNterAlex/Passwd-Hanter.git
 pkg install git
 
 pkg install python3
-link-(https://github.com/HeartHaNterAlex/Passwd-Hanter.git
+
+
+
+
+
+
+
+
+
+# link-)
+
+
+https://github.com/HeartHaNterAlex/Passwd-Hanter.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
