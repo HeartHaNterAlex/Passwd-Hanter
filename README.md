@@ -1,2 +1,3 @@
-# Password-cracker
-Password cracker 60% social media fack account hack
+# Password-hunter
+
+https://hearthanteralex.github.io/Password-cracker/
