@@ -1,4 +1,5 @@
-# Passwd-Hanter_brute-forced-attack
+# Passwd-Hanter
+# brute-forced-attack
 ![Screenshot_2024-01-04-12-59-52-053_com termux](https://github.com/HeartHaNterAlex/Passwd-Hanter/assets/139457526/f72ac5a9-759c-4e5b-a302-0ca62f07e43c)
 
 
