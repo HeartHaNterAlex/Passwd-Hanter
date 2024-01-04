@@ -36,6 +36,8 @@ pkg install git
 
 pkg install python3
 
+pip install requests
+
 git clone https://github.com/HeartHaNterAlex/Passwd-Hanter.git
 
 cd Passwd-Hanter
